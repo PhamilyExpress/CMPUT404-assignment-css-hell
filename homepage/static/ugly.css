@@ -1,0 +1,58 @@
+.top {
+  background-color: green;
+}
+
+body {
+  margin: 0;
+  background-image: url("stars.jpg");
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-size: 24px;
+}
+
+.main {
+  margin: 12px;
+}
+
+.flex {
+  display: flex;
+}
+
+.name {
+  margin: 0;
+  font-size: 144px;
+  font-weight: 900;
+  color: yellow;
+}
+
+.ml {
+  margin-left: 24px;
+}
+
+.header {
+  font-size: 24px;
+}
+
+img {
+  width: 30%;
+  height: 80px;
+}
+
+.side-nav {
+  width: 20px;
+  margin: 12px 12px 0 0;
+  background-color: purple;
+  transform: rotate(4deg);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt {
+  margin-top: 36px;
+}

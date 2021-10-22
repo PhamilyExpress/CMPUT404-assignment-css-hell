@@ -1,0 +1,55 @@
+.top {
+  background-color: #066da5;
+  padding: 24px;
+}
+
+body {
+  margin: 0;
+}
+
+.main {
+  margin: 12px;
+}
+
+.flex {
+  display: flex;
+}
+
+.name {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 900;
+  background: -webkit-linear-gradient(white, #f0cfa8);
+  background-clip: inherit;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ml {
+  margin-left: 24px;
+}
+
+.header {
+  font-size: 24px;
+  font-style: italic;
+}
+
+img {
+  width: 15%;
+}
+
+.side-nav {
+  width: 512px;
+  margin: 12px 12px 0 0;
+  padding: 0 32px;
+  background-color: #efefef;
+  margin-left: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt {
+  margin-top: 36px;
+}

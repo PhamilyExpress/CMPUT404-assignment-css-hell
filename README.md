@@ -34,3 +34,9 @@ Sources
 https://encycolorpedia.com/d6cca9
 
 https://www.w3.org/Style/Examples/007/fonts.en.html
+
+https://css-tricks.com/snippets/css/gradient-text/
+
+https://imagecolorpicker.com/
+
+https://wallpapersafari.com/w/8d4tEy
