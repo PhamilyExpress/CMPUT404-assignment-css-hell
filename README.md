@@ -31,12 +31,14 @@ Code is licensed under the Apache 2.0 license.
 
 Sources
 ==================
-https://encycolorpedia.com/d6cca9
+color source: https://encycolorpedia.com/d6cca9
 
-https://www.w3.org/Style/Examples/007/fonts.en.html
+font source: https://www.w3.org/Style/Examples/007/fonts.en.html
 
-https://css-tricks.com/snippets/css/gradient-text/
+gradient text: https://css-tricks.com/snippets/css/gradient-text/
 
-https://imagecolorpicker.com/
+color source: https://imagecolorpicker.com/
 
-https://wallpapersafari.com/w/8d4tEy
+image source: https://wallpapersafari.com/w/8d4tEy
+
+background image css: https://www.w3schools.com/cssref/pr_background-image.asp
