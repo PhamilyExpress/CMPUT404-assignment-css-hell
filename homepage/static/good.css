@@ -51,5 +51,9 @@ img {
 }
 
 .mt {
-  margin-top: 36px;
+  margin-top: 56px;
+}
+
+.mt-big {
+  margin-top: 72px;
 }
