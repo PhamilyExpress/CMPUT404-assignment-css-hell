@@ -12,6 +12,12 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part I Modifications
+=================
+In 1.html: To display the images, I changed every instance of
+src="Don%20Quixote,%20by%20Miguel%20de%20Cervantes_files/{filename}.jpg"
+to src="images/{filename}.jpg" excluding any src that call enlarge.jpg
+
 License/Copyright
 =================
 

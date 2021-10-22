@@ -1,33 +1,26 @@
 p {
   font-family: 'Garamond';
+  margin: 24px;
 }
 
 body {
   background-color: #D6CCA9;
 }
 
-h1 {
-  color: white;
+h1, h2, h3, h4, h5, h6 {
+  color: gray;
   font-weight: 900;
-  font-size: 10rem;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Apple Chancery";
+}
+
+img {
+  display: block;
+  margin: 0 auto 0;
+  width: 20%;
+}
+
+pre {
   text-align: center;
 }
-
-h2 {
-  color: white;
-  font-weight: 800;
-  font-size: 8rem;
-}
-
-h3 {
-  color: white;
-  font-weight: 700;
-  font-size: 6rem;
-}
-
-h4 {
-  color: white;
-  font-weight: 500;
-  font-size: 4rem;
-}
-
