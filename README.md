@@ -18,6 +18,8 @@ In 1.html: To display the images, I changed every instance of
 src="Don%20Quixote,%20by%20Miguel%20de%20Cervantes_files/{filename}.jpg"
 to src="images/{filename}.jpg" excluding any src that call enlarge.jpg
 
+In every html file: Some irrelevant whitespace was removed
+
 License/Copyright
 =================
 
@@ -27,4 +29,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Sources
+==================
+https://encycolorpedia.com/d6cca9
 
+https://www.w3.org/Style/Examples/007/fonts.en.html

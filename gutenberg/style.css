@@ -1,6 +1,6 @@
 p {
   font-family: 'Garamond';
-  margin: 24px;
+  margin: 24px 64px;
 }
 
 body {
@@ -22,5 +22,34 @@ img {
 }
 
 pre {
+  font-family: "American Typewriter";
   text-align: center;
+}
+
+a {
+  font-style: italic;
+  color: #f5f2ea;
+}
+
+.c3 {
+  margin-top: 48px;
+}
+
+.c1, .c2, .c3, .c4, .c5, .c6 {
+  font-family: "American Typewriter";
+  text-align: center;
+}
+
+.titlePage {
+  margin-top: 48px;
+  font-family: "American Typewriter";
+  text-align: center;
+}
+
+.contents {
+  margin-left: 48px;
+}
+
+.chapter {
+  margin-left: 48px;
 }
